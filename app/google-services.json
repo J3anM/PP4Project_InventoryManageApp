@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958316769476",
+    "firebase_url": "https://manageinventoryapp-default-rtdb.firebaseio.com",
+    "project_id": "manageinventoryapp",
+    "storage_bucket": "manageinventoryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958316769476:android:e2619de4e585ad7d2a1991",
+        "android_client_info": {
+          "package_name": "com.example.pp4_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958316769476-khhis1v4c39iqgnie3l09epmed5jt6ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pp4_project",
+            "certificate_hash": "c86d06857366c22068e8369a73fc6b87f4fd6af5"
+          }
+        },
+        {
+          "client_id": "958316769476-sga74v5qrpqoca78k4m0ct16gmfaljhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXWozQZKz_fwhhBvZiGc8MFbNrUoBg00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958316769476-sga74v5qrpqoca78k4m0ct16gmfaljhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

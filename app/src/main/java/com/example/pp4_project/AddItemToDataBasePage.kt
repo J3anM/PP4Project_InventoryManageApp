@@ -8,5 +8,6 @@ class AddItemToDataBasePage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_item_to_data_base_page)
 
+
     }
 }
