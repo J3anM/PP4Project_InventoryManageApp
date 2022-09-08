@@ -17,7 +17,7 @@
             android:name=".AddItemToDataBasePage"
             android:exported="false" />
         <activity
-            android:name=".mainPage"
+            android:name=".MainPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
