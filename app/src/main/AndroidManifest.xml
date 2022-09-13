@@ -14,14 +14,17 @@
         android:theme="@style/Theme.PP4_Project"
         tools:targetApi="31">
         <activity
-            android:name=".LoginPage"
+            android:name=".ListsPages"
             android:exported="false" />
 
+        <activity
+            android:name=".MainPage"
+            android:exported="false" />
         <activity
             android:name=".AddItemToDataBasePage"
             android:exported="false" />
         <activity
-            android:name=".MainPage"
+            android:name=".LoginPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
